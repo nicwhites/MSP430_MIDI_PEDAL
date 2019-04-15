@@ -1,0 +1,1 @@
+"./WS2812Driver.obj" "./delay.obj" "./init_display.obj" "./lib_lcd.obj" "./main.obj" "./rotaryencoder.obj" "../lnk_msp430g2553.cmd" -llibc.a 
